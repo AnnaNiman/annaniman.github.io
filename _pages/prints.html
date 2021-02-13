@@ -1,0 +1,30 @@
+---
+title: "Anna Niman"
+layout: default
+description: "Prints"
+permalink: "/prints.html"
+---
+
+<section class="mt-4 mb-5">
+
+    <div class="container mb-4">
+        <h1 class="font-weight-bold title">Prints</h1>
+    </div>
+
+
+<div class="container-fluid">
+
+  <p>If you'd like to buy a print please contact me via <a href="https://www.instagram.com/anna_niman_drawnpainted">Instagram</a> and we can arrange payment and delivery.</p>
+
+    <div class="card-columns">
+        {% for post in site.posts reversed %}
+          {% if post.print %}
+            {% include card-print.html %}
+          {% endif %}
+        {% endfor %}
+    </div>
+
+
+</div>
+
+</section>
