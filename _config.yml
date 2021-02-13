@@ -3,10 +3,9 @@ name: 'Anna Niman'
 description: 'Anna Niman'
 logo: 'assets/images/anna_logo.png'
 favicon: 'assets/images/anna_logo.png'
-baseurl: '' #'/annaniman'
+baseurl: 'https://annaniman.github.io/' #'/annaniman'
 avatar: 'assets/images/anna_logo.png'
 # disqus: 'demowebsite'
-email: 'annaniman@gmail.com'
 
 include: ["_pages", "gallery"]
 permalink: /:title/
