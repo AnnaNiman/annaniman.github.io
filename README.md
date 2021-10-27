@@ -5,7 +5,7 @@ Website for Anna Niman
 
 ## Instructions adding and updating via GitHub
 
-1. Go to https://www.github.com/AnnaNiman
+1. Go to https://www.github.com/AnnaNiman/annaniman.github.io
 2. Got to the “assets/images/” folder
 3. Click on “Add file” (top right) and upload new image
 4. Go to “_posts” folder
