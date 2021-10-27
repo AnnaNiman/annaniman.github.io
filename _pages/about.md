@@ -19,7 +19,7 @@ time-based work. Anna Niman continues to draw upon these early experiences
 in her current work and adopts a playful and experimental approach to each medium
 she uses.
 
-Anna Niman believes art should be fun, open and accessible to all. Since 2015,
+Anna Niman believes art should be fun, open and accessible to all. Since 2013,
 she runs the weekly [London Art & Drawing](https://www.instagram.com/londonartdrawing/)
 life drawing and portrait drawing sessions at different
 locations in North London and online. She also runs art workshops on different
